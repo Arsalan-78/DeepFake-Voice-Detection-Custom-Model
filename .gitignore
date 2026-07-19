@@ -1,0 +1,21 @@
+# Virtual environment
+tf_env/
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Large datasets (not tracked in git)
+AUDIO/
+AUDIO_AUGMENTED/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
